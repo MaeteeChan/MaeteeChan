@@ -1,5 +1,5 @@
 # 👋 Hello there!
-I'm a passionate individual with diverse interests and a multifaceted academic background. Currently pursuing dual undergrad degrees in Law and Political Science, majoring in Government and minoring in Philosophy.
+I am a passionate individual with diverse interests and a multifaceted academic background. Currently, I am pursuing dual undergraduate degrees in Law and Political Science, with a major in Government and a minor in Philosophy. I have future plans to take the Bar Exam and further my academic journey with an additional undergraduate degree in Economics, focusing on Theoretical and Quantitative Economics, with a minor in Mathematics.
 
 ## 📚 Academic Focus
 My academic pursuits seamlessly blend with my love for philosophy, where I specialize in the philosophy of mind, cognitive science and neurophilosophy. I find immense joy in contributing to the field by publishing philosophy papers.
