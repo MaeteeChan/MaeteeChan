@@ -21,24 +21,23 @@ My academic pursuits seamlessly blend with my love for philosophy, where I speci
 - ![English](https://img.shields.io/badge/English-21759B?style=flat-square&logo=english&logoColor=white)
 - ![French](https://img.shields.io/badge/French-005E87?style=flat-square&logo=french&logoColor=white)
 
-## 💻 Skills
-### Programming Languages
-- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-  - ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) NumPy
-  - ![SciPy](https://img.icons8.com/color/48/000000/scipy.png) SciPy
-  - ![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png) Matplotlib
-  - ![Seaborn](https://img.icons8.com/color/48/000000/seaborn.png) Seaborn
-  - ![Plotly](https://img.icons8.com/color/48/000000/plotly.png) Plotly
-  - ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) Pandas
-  - ![GeoPandas](https://img.icons8.com/color/48/000000/geopandas.png) GeoPandas
-  - ![QuantEcon](https://img.icons8.com/color/48/000000/quantecon.png) QuantEcon
-- ![C/C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C/C++
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
-### AI and Data Science
-- ![Scikit-Learn](https://img.icons8.com/color/48/000000/scikit-learn.png) Scikit-Learn
-- ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) TensorFlow
-- ![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png) PyTorch
-- ![Keras](https://img.icons8.com/color/48/000000/keras.png) Keras
+💻 **Skills:**
+- **Programming Languages:**
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+    - ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+    - ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+    - ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white)
+    - ![Seaborn](https://img.shields.io/badge/Seaborn-00599C?style=flat-square&logo=seaborn&logoColor=white)
+    - ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+    - ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+    - ![Quantecon](https://img.shields.io/badge/Quantecon-8B16AA?style=flat-square&logo=quantecon&logoColor=white)
+  - ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+  - ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+- **Artificial Intelligence and Data Science:**
+  - ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+  - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+  - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+  - ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
 ## 🚀 Aspirations
 I aim to transition into AI engineering and data science roles, leveraging my unique blend of legal, political, economic, and philosophical insights along with strong analytical skills. Excited to contribute and grow in these cutting-edge domains.
