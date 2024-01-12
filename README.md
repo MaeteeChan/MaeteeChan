@@ -23,22 +23,22 @@ My academic pursuits seamlessly blend with my love for philosophy, where I speci
 
 ## 💻 Skills
 ### Programming Languages
-- ![Python](python.png) Python
-  - ![NumPy](numpy.png) NumPy
-  - ![SciPy](scipy.png) SciPy
-  - ![Matplotlib](matplotlib.png) Matplotlib
-  - ![Seaborn](seaborn.png) Seaborn
-  - ![Plotly](plotly.png) Plotly
-  - ![Pandas](pandas.png) Pandas
-  - ![GeoPandas](geopandas.png) GeoPandas
-  - ![QuantEcon](quantecon.png) QuantEcon
-- ![C/C++](cpp.png) C/C++
-- ![Java](java.png) Java
+- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+  - ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) NumPy
+  - ![SciPy](https://img.icons8.com/color/48/000000/scipy.png) SciPy
+  - ![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png) Matplotlib
+  - ![Seaborn](https://img.icons8.com/color/48/000000/seaborn.png) Seaborn
+  - ![Plotly](https://img.icons8.com/color/48/000000/plotly.png) Plotly
+  - ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) Pandas
+  - ![GeoPandas](https://img.icons8.com/color/48/000000/geopandas.png) GeoPandas
+  - ![QuantEcon](https://img.icons8.com/color/48/000000/quantecon.png) QuantEcon
+- ![C/C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C/C++
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
 ### AI and Data Science
-- ![Scikit-Learn](scikit-learn.png) Scikit-Learn
-- ![TensorFlow](tensorflow.png) TensorFlow
-- ![PyTorch](pytorch.png) PyTorch
-- ![Keras](keras.png) Keras
+- ![Scikit-Learn](https://img.icons8.com/color/48/000000/scikit-learn.png) Scikit-Learn
+- ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) TensorFlow
+- ![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png) PyTorch
+- ![Keras](https://img.icons8.com/color/48/000000/keras.png) Keras
 
 ## 🚀 Aspirations
 I aim to transition into AI engineering and data science roles, leveraging my unique blend of legal, political, economic, and philosophical insights along with strong analytical skills. Excited to contribute and grow in these cutting-edge domains.
