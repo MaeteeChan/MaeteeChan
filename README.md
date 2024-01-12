@@ -41,6 +41,9 @@ My academic pursuits seamlessly blend with my love for philosophy, where I speci
   - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
   - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
   - ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+  - ![LightGBM](https://img.shields.io/badge/LightGBM-339933?style=flat-square&logo=lightgbm&logoColor=white)
+  - ![XGBoost](https://img.shields.io/badge/XGBoost-003366?style=flat-square&logo=xgboost&logoColor=white)
+  - ![CatBoost](https://img.shields.io/badge/CatBoost-14264E?style=flat-square&logo=catboost&logoColor=white)
 
 ## 🚀 Aspirations
 I aim to transition into AI engineering and data science roles, leveraging my unique blend of legal, political, economic, and philosophical insights along with strong analytical skills. Excited to contribute and grow in these cutting-edge domains.
