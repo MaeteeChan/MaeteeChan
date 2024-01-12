@@ -1,6 +1,6 @@
 👋 **Hello there!**
 ---
-I'm a lawyer, political scientist, and economist deeply passionate about AI/ML, data science, philosophy, pure mathematics, and statistics. Currently, I'm immersed in dual studies, majoring in government and political science with a minor in philosophy.
+I'm a lawyer, political scientist, and economist deeply passionate about AI/ML, data science, philosophy, pure mathematics, and statistics. Simultaneously pursuing undergraduate degrees in Law and Political Science, with a major in Government and a minor in Philosophy.
 
 📚 **Academic Focus:**
 ---
