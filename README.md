@@ -23,22 +23,22 @@ My academic pursuits seamlessly blend with my love for philosophy, where I speci
 
 ## 💻 Skills
 ### Programming Languages
-- ![Python](Icon/python.svg) Python
-  - ![NumPy](Icon/numpy.svg) NumPy
-  - ![SciPy](Icon/scipy.svg) SciPy
-  - ![Matplotlib](Icon/matplotlib.svg) Matplotlib
-  - ![Seaborn](Icon/seaborn.svg) Seaborn
-  - ![Plotly](Icon/plotly.svg) Plotly
-  - ![Pandas](Icon/pandas.svg) Pandas
-  - ![GeoPandas](Icon/geopandas.svg) GeoPandas
-  - ![QuantEcon](Icon/quantecon.svg) QuantEcon
-- ![C/C++](Icon/cpp.svg) C/C++
-- ![Java](Icon/java.svg) Java
+- ![Python](python.png) Python
+  - ![NumPy](numpy.png) NumPy
+  - ![SciPy](scipy.png) SciPy
+  - ![Matplotlib](matplotlib.png) Matplotlib
+  - ![Seaborn](seaborn.png) Seaborn
+  - ![Plotly](plotly.png) Plotly
+  - ![Pandas](pandas.png) Pandas
+  - ![GeoPandas](geopandas.png) GeoPandas
+  - ![QuantEcon](quantecon.png) QuantEcon
+- ![C/C++](cpp.png) C/C++
+- ![Java](java.png) Java
 ### AI and Data Science
-- ![Scikit-Learn](Icon/scikit-learn.svg) Scikit-Learn
-- ![TensorFlow](Icon/tensorflow.svg) TensorFlow
-- ![PyTorch](Icon/pytorch.svg) PyTorch
-- ![Keras](Icon/keras.svg) Keras
+- ![Scikit-Learn](scikit-learn.png) Scikit-Learn
+- ![TensorFlow](tensorflow.png) TensorFlow
+- ![PyTorch](pytorch.png) PyTorch
+- ![Keras](keras.png) Keras
 
 ## 🚀 Aspirations
 I aim to transition into AI engineering and data science roles, leveraging my unique blend of legal, political, economic, and philosophical insights along with strong analytical skills. Excited to contribute and grow in these cutting-edge domains.
