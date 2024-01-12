@@ -46,7 +46,7 @@ My academic pursuits seamlessly blend with my love for philosophy, where I speci
   - ![CatBoost](https://img.shields.io/badge/CatBoost-14264E?style=flat-square&logo=catboost&logoColor=white)
 
 ## 🚀 Aspirations
-I aim to transition into AI engineering and data science roles, leveraging my unique blend of legal, political, economic, and philosophical insights along with strong analytical skills. Excited to contribute and grow in these cutting-edge domains.
+I aim to transition into AI engineering and data science roles, leveraging my unique blend of legal, political, philosophical, economical, mathematical, statistical insights along with strong analytical skills. Excited to contribute and grow in these cutting-edge domains.
 
 ---
 
