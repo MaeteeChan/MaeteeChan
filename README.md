@@ -1,6 +1,9 @@
 # 👋 Hello there!
 I am a passionate individual with diverse interests and a multifaceted academic background. Currently, I am pursuing dual undergraduate degrees in Law and Political Science, with a major in Government and a minor in Philosophy. I have future plans to take the Bar Exam and further my academic journey with an additional undergraduate degree in Economics, focusing on Theoretical and Quantitative Economics, with a minor in Mathematics.
 
+## 🚀 Aspirations
+I aim to transition into AI engineering and data science roles, leveraging my unique blend of legal, political, philosophical, economical, mathematical, statistical insights along with strong analytical skills. Excited to contribute and grow in these cutting-edge domains.
+
 ## 📚 Academic Focus
 My academic pursuits seamlessly blend with my love for philosophy, where I specialize in the philosophy of mind, cognitive science and neurophilosophy. I find immense joy in contributing to the field by publishing philosophy papers.
 
@@ -44,9 +47,6 @@ My academic pursuits seamlessly blend with my love for philosophy, where I speci
   - ![LightGBM](https://img.shields.io/badge/LightGBM-339933?style=flat-square&logo=lightgbm&logoColor=white)
   - ![XGBoost](https://img.shields.io/badge/XGBoost-003366?style=flat-square&logo=xgboost&logoColor=white)
   - ![CatBoost](https://img.shields.io/badge/CatBoost-14264E?style=flat-square&logo=catboost&logoColor=white)
-
-## 🚀 Aspirations
-I aim to transition into AI engineering and data science roles, leveraging my unique blend of legal, political, philosophical, economical, mathematical, statistical insights along with strong analytical skills. Excited to contribute and grow in these cutting-edge domains.
 
 ---
 
