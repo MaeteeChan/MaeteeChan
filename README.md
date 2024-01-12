@@ -21,7 +21,7 @@ My academic pursuits seamlessly blend with my love for philosophy, where I speci
 - ![English](https://img.shields.io/badge/English-21759B?style=flat-square&logo=english&logoColor=white)
 - ![French](https://img.shields.io/badge/French-005E87?style=flat-square&logo=french&logoColor=white)
 
-💻 **Skills:**
+## 💻 Skills:
 - **Programming Languages:**
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
     - ![NumPy](https://img.shields.io/badge/NumPy-F7931E?style=flat-square&logo=numpy&logoColor=white)
