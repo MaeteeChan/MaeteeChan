@@ -33,7 +33,7 @@ My academic pursuits seamlessly blend with my love for philosophy, where I speci
     - ![Seaborn](https://img.shields.io/badge/Seaborn-2ECC71?style=flat-square&logo=seaborn&logoColor=white)
     - ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
     - ![Statsmodels](https://img.shields.io/badge/Statsmodels-DE2910?style=flat-square&logo=statsmodels&logoColor=white)
-    - ![QuantEcon](https://img.shields.io/badge/Quantecon-8B16AA?style=flat-square&logo=quantecon&logoColor=white)
+    - ![QuantEcon](https://img.shields.io/badge/QuantEcon-8B16AA?style=flat-square&logo=quantecon&logoColor=white)
   - ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
   - ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
   - ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
