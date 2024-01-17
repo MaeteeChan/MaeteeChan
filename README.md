@@ -1,11 +1,13 @@
 # 👋 Hello there!
-I am a passionate individual with diverse interests and a multifaceted academic background. Currently, I am pursuing dual undergraduate degrees in Law and Political Science, with a major in Government and a minor in Philosophy. I have future plans to take the Bar Exam and further my academic journey with an additional undergraduate degree in Economics, focusing on Theoretical and Quantitative Economics, with a minor in Mathematics.
+I am a dedicated individual with a diverse academic background currently pursuing dual undergraduate degrees in Law and Political Science. My major in Government, coupled with a minor in Philosophy.
 
 ## 🚀 Aspirations
-I aim to transition into AI engineering and data science roles, leveraging my unique blend of legal, political, philosophical, economical, mathematical, statistical insights along with strong analytical skills. Excited to contribute and grow in these cutting-edge domains.
+Driven by a multifaceted academic journey, I aspire to transition into AI engineering and data science roles. Leveraging my unique blend of insights from law, politics, philosophy, economics, and mathematics, I aim to contribute meaningfully to the cutting-edge domains of artificial intelligence and data science.
 
 ## 📚 Academic Focus
-My academic pursuits seamlessly blend with my love for philosophy, where I specialize in the philosophy of mind, cognitive science and neurophilosophy. I find immense joy in contributing to the field by publishing philosophy papers.
+My academic pursuits seamlessly blend with my love for philosophy, specializing in the philosophy of mind, cognitive science, and neurophilosophy. I find joy in contributing to the field by publishing philosophy papers.
+
+---
 
 ## 🌐 Interests
 - ![Thai Law and Legal System](https://img.shields.io/badge/Thai%20Law%20and%20Legal%20System-0D5EAF?style=flat-square)
@@ -39,15 +41,16 @@ My academic pursuits seamlessly blend with my love for philosophy, where I speci
   - ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
   - ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
-- **Artificial Intelligence and Data Science:**
-  - ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-  - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-  - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-  - ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-  - ![LightGBM](https://img.shields.io/badge/LightGBM-339933?style=flat-square&logo=lightgbm&logoColor=white)
-  - ![XGBoost](https://img.shields.io/badge/XGBoost-003366?style=flat-square&logo=xgboost&logoColor=white)
-  - ![CatBoost](https://img.shields.io/badge/CatBoost-14264E?style=flat-square&logo=catboost&logoColor=white)
-
+- **AI and Data Science:**
+  - **Frameworks:**
+    - ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+    - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+    - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+    - ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+  - **Ensemble Learning:**
+    - ![LightGBM](https://img.shields.io/badge/LightGBM-339933?style=flat-square&logo=lightgbm&logoColor=white)
+    - ![XGBoost](https://img.shields.io/badge/XGBoost-003366?style=flat-square&logo=xgboost&logoColor=white)
+    - ![CatBoost](https://img.shields.io/badge/CatBoost-14264E?style=flat-square&logo=catboost&logoColor=white)
 ---
 
 ## 🤝 Let's Connect!
