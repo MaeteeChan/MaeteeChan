@@ -1,5 +1,5 @@
 # 👋 Hello there!
-I am a dedicated individual with a diverse academic background currently pursuing dual undergraduate degrees in Law and Political Science. My major in Government, coupled with a minor in Philosophy.
+I am a committed individual with a diverse academic background, currently pursuing two undergraduate degrees—one in Law and another in Political Science. My major focuses on Government, coupled with a minor in Philosophy.
 
 ## 🚀 Aspirations
 Driven by a multifaceted academic journey, I aspire to transition into AI engineering and data science roles. Leveraging my unique blend of insights from law, politics, philosophy, economics, and mathematics, I aim to contribute meaningfully to the cutting-edge domains of artificial intelligence and data science.
